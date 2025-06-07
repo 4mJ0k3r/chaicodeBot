@@ -1,0 +1,722 @@
+[
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Chai aur HTML” series on theChai aur CodeYouTube channel. For the best learning experience, we recommend following these docs alongside our video tutorials.\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nGetting Started\nHTML Intro",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Introduction to HTML\nHTML is the foundation of all websites.In this guide, you’ll understand the essentials of HTML and get started with web development.\n## What is HTML?\nHTML stands forHyperText Markup Language. It’s the standard markup language for creating and structuring web pages. HTML defines the structure and content of your web page, such as headings, paragraphs, images, and links.\n## What is HTML5?\nHTML5is the latest version of HTML. It introduces new tags, attributes, and features, making it simpler and more efficient to build modern, interactive web pages. HTML5 is also designed to be fully backward compatible with previous HTML versions.\n## How much HTML should you learn?\nYou only need the basics of HTML to start creating websites. Typically, mastering HTML essentials should not take more than a weekend. Understand the core tags and structure, and you’re all set to build web pages effectively.\n## Text/Code Editor vs. Word Processor",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/introduction/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Text/Code Editor vs. Word Processor\nText editorsare specialized tools for writing and editing plain text files, including source code. They include essential features for coding such as syntax highlighting, auto-completion, and code formatting.\nWord processorslike Microsoft Word or Google Docs are ideal for creating formatted documents such as letters, reports, or presentations—but they’re not suitable for coding.\nFor HTML development, always use acode editor.\n## Recommended Code Editors\nHere are some recommended code editors for writing HTML efficiently:\n## Essential VS Code Extensions for HTML\nEnhance your HTML coding experience with these recommended VS Code extensions:\n## Emmet for HTML Productivity\nEmmet is built-in with VS Code and allows you to rapidly generate HTML code using short abbreviations. This significantly speeds up your coding workflow. No need to manually type lengthy tags—let Emmet handle it for you.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/introduction/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Spend some time getting familiar with Emmet shortcuts to greatly improve your productivity. Learn more about Emmet at theofficial website.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nEmmet Crash Course",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/introduction/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Emmet Crash Course\nEmmit is a code snippets manager for VS Code. It is used to create HTML code faster. Emmit is a must-have tool for any web developer. In VS Code, Emmit is enabled by default. It works only after you have created a new HTML file.\nLearn the shortcuts and just press the tab or enter key to get the code you want.\n## Some common Emmit shortcuts\n## ID and Class\nExample:\n#my-id- Inserts anidattribute with the valuemy-id\n.my-class- Inserts aclassattribute with the valuemy-class\ndiv>(header>ul>li*2>a)+footer>p1- expands into\n## Grouping\nYep, it can go little bit crazy. But you don’t have to worry about it. Rarely you will need to use it.\n## CSS shortcuts\n## Conclusion\nEmmit is a must-have tool for any web developer. BUT this does not mean you have to learn every single shortcut. You can use Emmit to create HTML code faster. NO ONE remembers all the shortcuts. We use then mostly by trial and error, and learning them as we go.\n## Start your journey with ChaiCode",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/emmit-crash-course/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nHTML Intro\nCommon HTML Tags",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/emmit-crash-course/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Common HTML Tags\nFocus on the Essentials\nRemember, you don’t need to master HTML to become a web developer. Focus on the basics and move on quickly. HTML5 only adds a few new tags and attributes to the classic HTML vocabulary. Although accessibility is very important, we’ll cover that later—especially if you plan to build web applications with JavaScript or modern frameworks.\n## Basic Terminology\n## HTML Tags for Text Content\n## HTML Tags for Lists\n## HTML Tags for Tables\n## HTML Tags for Forms\n## HTML Tags for Media\n## HTML Tags for Linking and Metadata\n## Script Tag Variations\n## HTML Tags for Semantic and Meta Content\nModern HTML (HTML5) introduces several semantic tags that enhance the meaning and structure of your document:\nAdditionally, standard meta tags include:\n## Attributes for HTML Tags\nAttributes provide additional information for HTML elements. Here are some common examples:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/html-tags/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Additionally, standard meta tags include:\n## Attributes for HTML Tags\nAttributes provide additional information for HTML elements. Here are some common examples:\nSome attributes are global attributes and can be used on any HTML tag. Some attributes are specific to certain tags and can only be used with that tag. For example, thehrefattribute is a specific attribute for the<a>tag, and thetitleattribute is a global attribute that can be used on any HTML tag.\n## HTML5 attributes\nSome examples of HTML5 attributes are:\nfooter, section, and header are new HTML5 attributes. They are used to define the structure of a web page. Fundamentally, they are used to group related content together, just like the<div>tag is used to group related content together.\n## HTML5 tags\n## Conclusion",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/html-tags/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## HTML5 tags\n## Conclusion\nYou don’t need to do a PhD in HTML to be a web developer. You just need to know the basics and get out of here ASAP. HTML5 just adds a few new tags and attributes to HTML. Rest all the stuff like Web APIs (local storage, session storage, etc.) are just JavaScript stuff. You can learn them later.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nEmmet Crash Course\nWelcome",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-html/html-tags/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Chai aur Git” series on theChai aur CodeYouTube channel. For the best learning experience, we recommend following these docs alongside our video tutorials.\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nCommon HTML Tags\nGit and GitHub",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Git and GitHub\nLet’s start with the basics. Git is a version control system that allows you to track changes to your files and collaborate with others. It is used to manage the history of your code and to merge changes from different branches. I can understand that as of now these terms like version control, branches, and merges are not familiar to you. But don’t worry, we will learn them in this tutorial.\n## Git and Github are different\nGit is a version control system that is used to track changes to your files. It is a free and open-source software that is available for Windows, macOS, and Linux. Remember, GIT is a software and can be installed on your computer.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Github is a web-based hosting service for Git repositories. Github is an online platform that allows you to store and share your code with others. It is a popular platform for developers to collaborate on projects and to share code. It is not that Github is the only provider of Git repositories, but it is one of the most popular ones.\n## A little on version control systems\nVersion control systems are used to manage the history of your code. They allow you to track changes to your files and to collaborate with others. Version control systems are essential for software development. Consider version control as a checkpoint in game. You can move to any time in the game and you can always go back to the previous checkpoint. This is the same concept in software development.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Before Git became mainstream, version control systems were used by developers to manage their code. They were called SCCS (Source Code Control System). SCCS was a proprietary software that was used to manage the history of code. It was expensive and not very user-friendly. Git was created to replace SCCS and to make version control more accessible and user-friendly. Some commong version control systems are Subversion (SVN), CVS, and Perforce.\n## Learning Path\nIn this tutorial, we will learn the basics of Git and Github. We will start with the basics and then move on to more advanced topics. We will also learn how to use Git and Github for collaboration and version control. By the end of this tutorial, you will have a good understanding of Git and Github and will be able to use them to manage your code effectively.\nWe will go in this jounney something like this:\nWe will focus more on Git first, once you understand git, moving towards Github will be easy.\n## Install Git",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+    "chunk_id": 2
+  },
+  {
+    "content": "We will go in this jounney something like this:\nWe will focus more on Git first, once you understand git, moving towards Github will be easy.\n## Install Git\nTo install Git, you can use command line or you can visit official website and download the installer for your operating system. Git is available for Windows, macOS, and Linux and is available athttps://git-scm.com/downloads.\n## Account on Github\nAnother step that you have to follow is to create an account on Github. I will later walk you through the process of linking your Github account with your Machine. You cannot push your code to Github without ssh-key setup. Password authentication is not recommended and these days it is not possible to use it. So, you need to setup ssh-key authentication. We will cover that in a later part of the tutorial.\n## Conclusion",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Conclusion\nIn this part, we have learned the basics of Git and Github. We have also learned how to install Git and Github. We have also learned about the importance of version control systems and how they are used in software development.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nTerminology",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+    "chunk_id": 4
+  },
+  {
+    "content": "## Terminology\nGit and people who use it talk in a different terminology. For example they don’t call it a folder, they call it a repository. They don’t call it alternative timeline, they call it branch. Although, I agree that alternative timeline is a better name for it. 😁\n## Check your git version\nTo check your git version, you can run the following command:\nThis command will display the version of git installed on your system. Git is a very stable software and don’t get any breaking changes in majority of the cases, at least in my experience.\n## Repository\nA repository is a collection of files and directories that are stored together. It is a way to store and manage your code. A repository is like a folder on your computer, but it is more than just a folder. It can contain other files, folders, and even other repositories. You can think of a repository as a container that holds all your code.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 0
+  },
+  {
+    "content": "There is a difference between a software on your system vs tracking a particular folder on your system. At any point you can run the following command to see the current state of your repository:\nNot all folders are meant to be tracked by git. Here we can see that all green folders are projects are getting tracked by git but red ones are not.\n## Your config settings\nGithub has a lot of settings that you can change. You can change your username, email, and other settings. Whenever you checkpoint your changes, git will add some information about your such as your username and email to the commit. There is a git config file that stores all the settings that you have changed. You can make settings like what editor you would like to use etc. There are some global settings and some repository specific settings.\nLet’s setup your email and username in this config file. I would recommend you to create an account on github and then use the email and username that you have created.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Let’s setup your email and username in this config file. I would recommend you to create an account on github and then use the email and username that you have created.\nNow you can check your config settings:\nThis will show you all the settings that you have changed.\n## Creating a repository\nCreating a repository is a process of creating a new folder on your system and initializing it as a git repository. It’s just regular folder to code your project, you are just asking git to track it. To create a repository, you can use the following command:\ngit statuscommand will show you the current state of your repository.git initcommand will create a new folder on your system and initialize it as a git repository. This adds a hidden.gitfolder to your project.\n## Commit",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Commit\ncommit is a way to save your changes to your repository. It is a way to record your changes and make them permanent. You can think of a commit as a snapshot of your code at a particular point in time. When you commit your changes, you are telling git to save them in a permanent way. This way, you can always go back to that point in time and see what you changed.\nUsual flow looks like this:\n## Complete git flow\nA complete git flow, along with pushing the code to github looks like this:\nWhen you want to track a new folder, you first useinitcommand to create a new repository. Then you can useaddcommand to add the folder to the repository. After that you can usecommitcommand to save the changes. Finally you can usepushcommand to push the changes to github. Of course there is more to it but this is the basic flow.\n## Stage\nStage is a way to tell git to track a particular file or folder. You can use the following command to stage a file:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Stage\nStage is a way to tell git to track a particular file or folder. You can use the following command to stage a file:\nHere we are initializing the repository and adding a file to the repository. Then we can see that the file is now being tracked by git. Currently our files are in staging area, this means that we have not yet committed the changes but are ready to be committed.\n## Commit\nHere we are committing the changes to the repository. We can see that the changes are now committed to the repository. The-mflag is used to add a message to the commit. This message is a short description of the changes that were made. You can use this message to remember what the changes were.\nMissing the-mflag will result in an action that opens your default settings editor, which is usually VIM. We will change this to vscode in the next section.\n## Logs",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 4
+  },
+  {
+    "content": "Missing the-mflag will result in an action that opens your default settings editor, which is usually VIM. We will change this to vscode in the next section.\n## Logs\nThis command will show you the history of your repository. It will show you all the commits that were made to the repository. You can use the--onelineflag to show only the commit message. This will make the output more compact and easier to read.\n☕️ - Check git log docs\nAtomic commits are a way to make sure that each commit is a self-contained unit of work. This means that if one commit fails, you can always go back to a previous commit and fix the issue. This is important for maintaining a clean and organized history in your repository.\n## change default code editor\nYou can change the default code editor in your system to vscode. To do this, you can use the following command:\n## gitignore",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 5
+  },
+  {
+    "content": "## change default code editor\nYou can change the default code editor in your system to vscode. To do this, you can use the following command:\n## gitignore\nGitignore is a file that tells git which files and folders to ignore. It is a way to prevent git from tracking certain files or folders. You can create a gitignore file and add list of files and folders to ignore by using the following command:\nExample:\nNow, when you run thegit statuscommand, it will not show thenode_modulesand.vscodefolders as being tracked by git.\n## Conclusion\nIn this section, we have learned about the basics of git and how to use it to track changes to your files and folders. We have also learned about the different commands that you can use to interact with your repository, such asinit,add,commit,log, etc By the end of this section, you should have a good understanding of how to use git and how to use it effectively to manage your code.\n## Start your journey with ChaiCode",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 6
+  },
+  {
+    "content": "## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nGit and GitHub\nBehind the scenes",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+    "chunk_id": 7
+  },
+  {
+    "content": "## Git behind the scenes\nGit is a version control system that allows you to track changes to your files and folders. It is a powerful tool that can help you manage your code more effectively. In this section, we will explore the basics of how git works internally.\n## Git Snapshots\nA git snapshot is a point in time in the history of your code. It represents a specific version of your code, including all the files and folders that were present at that time. Each snapshot is identified by a unique hash code, which is a string of characters that represents the contents of the snapshot.\nA snapshot is not an image, it’s just a representation of the code at a specific point in time. Snapshot is a loose term that is used when git stores information about the code in a locally stored key-value based database. Everything is stored as an object and each object is identified by a unique hash code.\n## 3 Musketeers of Git\nThe three musketeers of git are:\n## Commit Object",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/behind-the-scenes/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## 3 Musketeers of Git\nThe three musketeers of git are:\n## Commit Object\nEach commit in the project is stored in.gitfolder in the form of a commit object. A commit object contains the following information:\n## Tree Object\nTree Object is a container for all the files and folders in the project. It contains the following information:\nEverything is stored as key-value pairs in the tree object. The key is the file name and the value is the file hash.\n## Blob Object\nBlob Object is present in the tree object and contains the actual file content. This is the place where the file content is stored.\n## Helpful commands\nHere are some helpful commands that you can use to explore the git internals:\nGrab tree id from the above command and use it in the following command to get the tree object:\nGrab tree id from the above command and use it in the following command to get the blob object:\nGrab tree id from the above command and use it in the following command to get the commit object:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/behind-the-scenes/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Grab tree id from the above command and use it in the following command to get the blob object:\nGrab tree id from the above command and use it in the following command to get the commit object:\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nTerminology\nBranches in Git",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/behind-the-scenes/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Branches in Git\nBranches are a way to work on different versions of a project at the same time. They allow you to create a separate line of development that can be worked on independently of the main branch. This can be useful when you want to make changes to a project without affecting the main branch or when you want to work on a new feature or bug fix.\nSome developers can work on Header, some can work on Footer, some can work on Content, and some can work on Layout. This is a good example of how branches can be used in git.\n## HEAD in git\nThe HEAD is a pointer to the current branch that you are working on. It points to the latest commit in the current branch. When you create a new branch, it is automatically set as the HEAD of that branch.\nthe default branch used to be master, but it is now called main. There is nothing special about main, it is just a convention.\n## Creating a new branch\nTo create a new branch, you can use the following command:\nSome points to note:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Creating a new branch\nTo create a new branch, you can use the following command:\nSome points to note:\nCommit before switching to a branchGo to .git folder and checkout to the HEAD file\n## Merging branches\n## Fast-forward merge\nThis one is easy as branch that you are trying to merge is usually ahead and there are no conflicts.\nWhen you are done working on a branch, you can merge it back into the main branch. This is done using the following command:\nSome points to note:\nThis is a fast-forward merge. It means that the commits in thebug-fixbranch are directly merged into themainbranch. This can be useful when you want to merge a branch that has already been pushed to the remote repository.\n## 3 Way merge\nIn this type of merge, the main branch has additional commits that are not present in thebug-fixbranch. This is not a fast-forward merge. Here git looks at 3 different commits [common ancestor of branches + tips of each branch] and combines the changes into one merge commit.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+    "chunk_id": 1
+  },
+  {
+    "content": "When you are done working on a branch, you can merge it back into the main branch. This is done using the following command:\nIf the command are same, what is the difference between fast-forward and not fast-forward merge?\nThe difference is resolving the conflicts. In a fast-forward merge, there are no conflicts. But in a not fast-forward merge, there are conflicts, and there are no shortcuts to resolve them.\nYou have to manually resolve the conflicts. Decide, what to keep and what to discard. VSCode has a built-in merge tool that can help you resolve the conflicts.\n## Managing conflicts",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+    "chunk_id": 2
+  },
+  {
+    "content": "You have to manually resolve the conflicts. Decide, what to keep and what to discard. VSCode has a built-in merge tool that can help you resolve the conflicts.\n## Managing conflicts\nThere is no magic button to resolve conflicts. You have to manually resolve the conflicts. Decide, what to keep and what to discard. VSCode has a built-in merge tool that can help you resolve the conflicts. I personally use VSCode merge tool. Github also has a merge tool that can help you resolve the conflicts but most of the time I handle them in VSCode and it gives me all the options to resolve the conflicts.\nOverall it sounds scary to beginners but it is not, it’s all about communication and understanding the code situation with your team members.\n## Rename a branch\nYou can rename a branch using the following command:\n## Delete a branch\nYou can delete a branch using the following command:\n## Checkout a branch\nYou can checkout a branch using the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+    "chunk_id": 3
+  },
+  {
+    "content": "You can rename a branch using the following command:\n## Delete a branch\nYou can delete a branch using the following command:\n## Checkout a branch\nYou can checkout a branch using the following command:\nCheckout a branch means that you are going to work on that branch. You can checkout any branch you want.\n## List all branches\nYou can list all branches using the following command:\nList all branches means that you are going to see all the branches in your repository.\n## Conclusion\nIn this section, we have learned about the different types of merges and how to resolve conflicts. We have also learned about the importance of branching and merging in Git and Github.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nBehind the scenes\nDiff, Stash, Tags",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+    "chunk_id": 4
+  },
+  {
+    "content": "## Diff, Stash and Tags\nThis guide will help you understand the different commands related to diff, tags and stash in git. These are not main stream commands but they are very useful in certain situations.\n## Git diff\nThegit diffis an informative command that shows the differences between two commits. It is used to compare the changes made in one commit with the changes made in another commit. Git consider the changed versions of same file as two different files. Then it gives names to these two files and shows the differences between them.\n## How to Read the Diff Output\nHere the file A and file B are the same file but different versions.\nGit will show you the changes made in the file A and file B. It will also show you the line number where the change occurred along with little preview of the change.\n## Comparing Working Directory and Staging Area",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Comparing Working Directory and Staging Area\nThis command shows the unstaged changes in your working directory compared to the staging area. This command alone will not show you the changes made in the file A and file B, you need to provide options to show the changes.\n## Comparing Staging Area with Repository\nThis command shows the changes between your last commit and the staging area (i.e., changes that are staged and ready to be committed).\n## Comparing Two Branches\nThis command compares the difference between two branches.\nAnother way to compare the difference between two branches is to use the following command:\n## Comparing Specific Commits:\nThis command compares the difference between two commits.\n## Git Stash\nStash is a way to save your changes in a temporary location. It’s useful when switching branches without losing work. You can then come back to the file later and apply the changes.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Git Stash\nStash is a way to save your changes in a temporary location. It’s useful when switching branches without losing work. You can then come back to the file later and apply the changes.\nConflicting changes will not allow you to switch branches without committing the changes. Another alternative is to use thegit stashcommand to save your changes in a temporary location.\nThis command saves your changes in a temporary location. It is like a stack of changes that you can access later.\n## Naming the stash\nYou can also name the stash by using the following command:\n## View the stash list\nYou can view the list of stashes by using the following command:\n## Apply the Most Recent Stash\nYou can apply the stash by using the following command:\n## Apply Specific Stash\nYou can apply the specific stash by using the following command:\nHerestash@{0}is the name of the stash. You can use thegit stash listcommand to get the name of the stash.\n## Applying and Drop a Stash",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 2
+  },
+  {
+    "content": "You can apply the specific stash by using the following command:\nHerestash@{0}is the name of the stash. You can use thegit stash listcommand to get the name of the stash.\n## Applying and Drop a Stash\nYou can apply and drop the stash by using the following command:\nThis command applies the stash and drops it from the stash list.\n## Drop the stash\nYou can drop the stash by using the following command:\n## Applying stash to a specific branch\nYou can apply the stash to a specific branch by using the following command:\n## Clearing the stash\nYou can clear the stash by using the following command:\n## Git Tags\nTags are a way to mark a specific point in your repository. They are useful when you want to remember a specific version of your code or when you want to refer to a specific commit. Tags are like sticky notes that you can attach to your commits.\n## Creating a tag\nYou can create a tag using the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Creating a tag\nYou can create a tag using the following command:\nThis command creates a new tag with the specified name. The tag will be attached to the current commit.\n## Create an annotated tag\nYou can create an annotated tag using the following command:\nThis command creates an annotated tag with the specified name and message. The tag will be attached to the current commit.\n## List all tags\nYou can list all tags using the following command:\nThis command lists all the tags in your repository.\n## Tagging a specific commit\nYou can tag a specific commit using the following command:\n## Push tags to remote repository\nYou can push tags to a remote repository using the following command:\n## Delete a tag\nYou can delete a tag using the following command:\n## Delete tag on remote repository\nYou can delete a tag on a remote repository using the following command:\n## Conclusion",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 4
+  },
+  {
+    "content": "## Delete a tag\nYou can delete a tag using the following command:\n## Delete tag on remote repository\nYou can delete a tag on a remote repository using the following command:\n## Conclusion\nIn this section, we explored how to use Git’s diff, stash, and tags commands. Though not used as frequently as add, commit, or push, they are incredibly helpful in debugging, context switching, and release management. See you next tutorial.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nBranches in Git\nManaging History",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+    "chunk_id": 5
+  },
+  {
+    "content": "## Managing History\nThis guide will help you understand how to manage your Git history effectively.\n## Merge commits\nA merge commit is a commit that combines two or more commits into one. It is created when you merge two or more branches into a single branch. The merge commit contains all the changes from the original branches, and it is used to keep the project history clean and easy to understand.\n## Rebase in git\nGit rebase is a powerful Git feature used to change the base of a branch. It effectively allows you to move a branch to a new starting point, usually a different commit, by “replaying” the commits from the original base onto the new base. This can be useful for keeping a cleaner, linear project history.\nSome people like to use rebase over the merge command because it allows you to keep the commit history cleaner and easier to understand. It also allows you to make changes to the code without affecting the original branch.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/managing-history/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Here’s a flow example of using git rebase with all the commands involved:\nSuppose you have a feature branch called feature-branch that you want to rebase onto the main branch.\n## Ensure you are on the branch you want to rebase\nThis will replay the commits from feature-branch on top of the latest changes in main.\n## Resolve any conflicts\nIf there are any conflicts, you will need to resolve them manually. You can use the merge tool in VSCode to resolve the conflicts.\nTry to avoid —force option when using rebase. It can cause issues with the project history. I have seen many horror stories of people using —force to fix conflicts.\n## Git reflog\nGit reflog is a command that shows you the history of your commits. It allows you to see the changes that you have made to your repository over time. This can be useful for debugging and understanding the history of your project.\n## View the reflog:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/managing-history/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## View the reflog:\nThis will show you the history of your commits. You can use the number at the end of each line to access the commit that you want to view.\n## Find specific commit\nYou can find a specific commit using the following command:\n## Recover lost commits or changes\nIf you accidentally deleted a branch or made changes that are no longer visible in the commit history, you can often recover them using the reflog. First, find the reference to the commit where the branch or changes existed, and then reset your branch to that reference.\nor you can useHEAD@{n}to reset to the nth commit before the one you want to reset to.\n## Conclusion\nIn this guide, we’ve covered important aspects of managing Git history through rebase and reflog. We’ve learned how rebase can help maintain a cleaner, more linear project history, and how reflog can help recover lost commits or changes.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/managing-history/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nDiff, Stash, Tags\nCollaborate with Github",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/managing-history/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## About Github\nThis guide will help you get started with Github.\n## What is Github?\nGithub is a web-based Git repository hosting service. It is a popular platform for developers to collaborate on projects and to share code. Github provides a user-friendly interface for managing and tracking changes to your code, as well as a platform for hosting and sharing your projects with others.\nSome other alternative of Github are:\nBut mainstream popular tool these days is Github.\n## Github Account\nCreating a Github account is free and easy. You can create an account by visiting theGithub websiteand clicking on the “Sign up” button. You will be prompted to enter your email address and password, and then you will be redirected to the Github homepage.\nOnce you have created an account, you can start using Github to host and collaborate on your projects. Github provides a variety of features and tools that make it easy to manage and track your code, including issues, pull requests, and code reviews.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Configuring Git\nIf you haven’t done it already, you need to configure your git config file. You can do this by running the following command:\nThis will set your email and name as your global settings. You can change these settings at any time by running the same command again.\nNow you can check your config settings:\nThis will show you all the settings that you have changed.\n## Setup SSH Key\nIf you haven’t done it already, you need to setup ssh key and add it to your github account. You can do this by following the instructions on theGithub website.\nYou can find the exact steps on the website for both Windows and MacOS. The steps are same for both, only apple users need to add the ssh key to their keychain.\nGenerate a new SSH key\nTo generate a new SSH key, open the terminal and run the following command:\nHere ed25519 is the type of key that you are generating. This creates a new SSH key, using the provided email as label.\nSave the key",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Here ed25519 is the type of key that you are generating. This creates a new SSH key, using the provided email as label.\nSave the key\nAfter generating the key, you need to save it to your computer. You can do this by running the following command:\nEnter a file in which to save the key(/Users/YOU/.ssh/id_ALGORITHM): [Press enter]\nAt the prompt you can enter passphrase for the key or you can leave it blank. If you leave it blank, the key will be saved without a passphrase.\nAdd key to your ssh-agent\nAfter saving the key, you need to add it to your ssh-agent. You can do this by running the following command:\nHere it is best to refer above link for more information, as Github has a lot of information on this. There is no point in repeating it here.\nAdd key to github\nUse the web ui to add the key to your github account. You can do this by following the instructions on theGithub website.\n## Publish Code to Remote Repository",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 2
+  },
+  {
+    "content": "Add key to github\nUse the web ui to add the key to your github account. You can do this by following the instructions on theGithub website.\n## Publish Code to Remote Repository\nNow that you have setup your ssh key and added it to your github account, you can start pushing your code to the remote repository.\nCreate a new Repo on your system first, add some code and commit it.\n## Remote URL Setting\nYou can check the remote url setting by running the following command:\nThis will show you the remote url of your repository.\n## Add Remote Repository\nYou can add a remote repository by running the following command:\ngit remote add origin <remote-url>\nHere<remote-url>is the url of the remote repository that you want to add and origin is the name of the remote repository. This origin is used to refer to the remote repository in the future.\n## Pushing Code\ngit push remote-name branch-name",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Pushing Code\ngit push remote-name branch-name\nHereremote-nameis the name of the remote repository that you want to push to andbranch-nameis the name of the branch that you want to push.\n## Setup an upstream remote\nSetting up an upstream remote is useful when you want to keep your local repository up to date with the remote repository. It allows you to fetch and merge changes from the remote repository into your local repository.\nTo set up an upstream remote, you can use the following command:\nor you can use shorthand:\nYou can do this at the time of pushing your code to the remote repository.\nThis will set up an upstream remote and push your code to the remote repository.\nThis will allow you to run future commands likegit pullandgit pushwithout specifying the remote name.\n## Get code from remote repository\nThere are two ways to get code from a remote repository:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 4
+  },
+  {
+    "content": "This will allow you to run future commands likegit pullandgit pushwithout specifying the remote name.\n## Get code from remote repository\nThere are two ways to get code from a remote repository:\nFetch the code means that you are going to download the code from the remote repository to your local repository. Pull the code means that you are going to download the code from the remote repository and merge it with your local repository.\n## Fetch code\nTo fetch code from a remote repository, you can use the following command:\nHere<remote-name>is the name of the remote repository that you want to fetch from.\n## Pull code\nTo pull code from a remote repository, you can use the following command:\nHere<remote-name>is the name of the remote repository that you want to pull from and<branch-name>is the name of the branch that you want to pull.\n## Conclusion",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 5
+  },
+  {
+    "content": "Here<remote-name>is the name of the remote repository that you want to pull from and<branch-name>is the name of the branch that you want to pull.\n## Conclusion\nIn this section, we have learned about Github and how to use it. We have also learned about how to setup ssh key and add it to your github account. We have also learned about how to publish code to the remote repository.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nManaging History\nWelcome",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+    "chunk_id": 6
+  },
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Chai aur C++” series on theChai aur CodeYouTube channel. For the best learning experience, we recommend following these docs alongside our video tutorials.\nHindi\nEnglish\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nCollaborate with Github\nC++ Intro",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Introduction\nIn this chapter, we will get familiar with the C++ language and its features. We will learn about the C++ standard library and some of its most commonly used classes and functions.\n## What is C++?\nC++ is a general-purpose programming language that was developed by Bjarne Stroustrup in the 1980s. It is an extension of the C programming language and is designed to be more efficient, powerful, and easier to use. C++ is used for developing a wide range of applications, including operating systems, games, and scientific simulations.\n## Why C++?\nC++ is a powerful language that offers several advantages over C:\n## C++ Syntax\nC++ code is written in a similar way to C code, but with some additional features. Here are some key differences between C and C++:\n## C++ Features\nC++ offers several features that make it a powerful language for developing applications:\n## History of C++",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/introduction/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## C++ Features\nC++ offers several features that make it a powerful language for developing applications:\n## History of C++\nC++ was developed by Bjarne Stroustrup as a thesis project in the late 1980s. In his Ph.D. thesis, Stroustrup tried Simula to inject Object Oriented Programming (OOP) into the language. However, he found that the language was too complex and difficult to use, so he decided to develop his own language.\nThe first version of C++ was released in 1989, and it was called “C with Classes”. It was a significant departure from C, as it introduced classes and objects, which allowed for more modular and reusable code. C++ quickly gained popularity and became the de facto standard for C programming.\nOver the years, C++ has evolved and gained new features and improvements. It has become a powerful language for developing a wide range of applications, including operating systems, games, and scientific simulations.\n## C++ over the years",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/introduction/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## C++ over the years\nC++ has undergone several major revisions and improvements over the years. Some of the key changes include:\n## C++ Compilers\nC++ compilers are software tools that are used to compile C++ code into machine code that can be executed by a computer. Some popular C++ compilers include:\n## C++ IDEs\nC++ IDEs are software tools that are used to develop C++ applications. Some popular C++ IDEs include:\n## C++ Standard Library\nThe C++ standard library provides a set of classes and functions that can be used to develop applications. Some of the most commonly used classes and functions in the C++ standard library include:\n## Summary\nIn this chapter, we have learned about C++ and its syntax. We have also learned about the C++ standard library and some of its most commonly used classes and functions.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nFirst Program in C++",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/introduction/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Hello World\nIn this chapter, we will learn how to write a simple “Hello World” program in C++. We will start by writing a program that prints “Hello World” to the console, and then we will add some comments and formatting to make the code more readable.\n## Writing Hello World\nTo write a “Hello World” program in C++, we need to create a newhello.cppfile and write the following code:\nLet’s break down the code:\n## Compiling Hello World\nTo compile the “Hello World” program, we need to use a C++ compiler. A C++ compiler is a software tool that translates the C++ code into machine code that can be executed by a computer. You can use runner extension in VS Code to compile and run the code.\n## Running Hello World\nTo run the “Hello World” program, we need to compile it and then run the compiled executable. Here are the steps to do this:\nOpen a terminal.\nNavigate to the directory where the “Hello World” program is saved.\nCompile the program using the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/hello-world/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Open a terminal.\nNavigate to the directory where the “Hello World” program is saved.\nCompile the program using the following command:\nOR you can use runner extension in VS Code to compile and run the code.\nRun the program using the following command:\nThe program should print “Hello World!” to the console.\n## Hello World with Comments\nNow that we have written a “Hello World” program, let’s add some comments to make the code more readable. Here’s the updated code:\nIn above code:\n## Summary\nIn this chapter, we have learned how to write a simple “Hello World” program in C++. We have also learned how to compile and run the program.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nC++ Intro\nVariables & Constants",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/hello-world/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Variables & Constants\nIn this chapter, we will learn about variables and constants in C++. We will start by learning about variables and how to declare and initialize them. Then, we will learn about constants and how to declare and initialize them.\n## Variables and Constants\nHere’s an example of declaring and initializing a variable:\nIn this example, we declare a variable namedageand initialize it with the value25. Theintkeyword is used to declare the variable as an integer.\nHere’s an example of declaring and initializing a constant:\nIn this example, we declare a constant namedPIand initialize it with the value3.14159. Theconstkeyword is used to declare the constant as a constant.\n## Code used inVideo\n## Going through the code\n## Summary\nIn this chapter, we have learned about variables and constants in C++. We have also learned how to declare and initialize variables and constants.\n## Start your journey with ChaiCode",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/variables-and-constants/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Summary\nIn this chapter, we have learned about variables and constants in C++. We have also learned how to declare and initialize variables and constants.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nFirst Program in C++\nData Types",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/variables-and-constants/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Data Types\nIn this chapter, we will learn about data types in C++. We will start by learning about the basic data types in C++ and how to use them. Data types are used to define the type of data that a variable can hold. They are an important concept in programming and are used to ensure that the data is stored and used correctly.\n## Basic Data Types\nC++ provides several basic data types that are used to define the type of data that a variable can hold. Some of the basic data types in C++ include:\nIn this chapter, we will focus on theprimitive data typesand how to use them.\n## Primitive Data Types\nC++ provides several primitive data types that are used to define the type of data that a variable can hold. Some of the primitive data types in C++ include:\nWe have some additional data types that are primitives but are less discussed from academic perspective. These include:\n## Code Used inVideo\nLet’s go through the code line by line:\n## Modifier Code inVideo",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/data-types/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Code Used inVideo\nLet’s go through the code line by line:\n## Modifier Code inVideo\nLet’s go through the code line by line:\n## String Code inVideo\nLet’s go through the code line by line:\n## Type Casting Code inVideo\nType casting is the process of converting a value from one data type to another data type.\nLet’s go through the code line by line:\n## User input code inVideo\nLet’s go through the code line by line:\n## Summary\nIn this chapter, we have learned about data types in C++. We have also learned about the primitive data types and how to use them.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nVariables & Constants\nOperators",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/data-types/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Operators\nIn this chapter, we will learn about operators in C++. We will start by learning about the different types of operators in C++ and how to use them. Operators are used to perform operations on variables and values.\n## Types of Operators\nC++ provides several types of operators that are used to perform operations on variables and values. Some of the types of operators in C++ include:\nTask Time\nTo learn these operators, we will use tasks based approach. Each task will help you to understand the requirements and then you will be able to implement the code.\n## Arithmetic Operators\nArithmetic operators are used to perform arithmetic operations on variables and values.\n## Task\nCreate a program that calculates the total price of tea cups. The user inputs the number of cups they want and the price per cup. The program should calculate the total price, apply a 5% discount if the total is above a certain amount, and show the final price.\n## Solution\n## Going through the code:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/operators/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Solution\n## Going through the code:\n## Assignment Operators\nAssignment operators are used to assign values to variables.\n## Task\nWrite a program that allows a user to input the number of tea bags they have. Assign additional bags to them based on certain conditions (e.g., if they have fewer than 10 bags, give them 5 extra). Update the original number using assignment operators.\n## Solution\n## Going through the code:\n## Relational Operators\nRelational operators are used to compare values and determine if they are equal or not.\n## Task\nA tea shop offers a loyalty program. Customers who buy more than 20 cups of tea get a special “Gold” badge, and those who buy 10 to 20 cups get a “Silver” badge. Write a program to display the badge they will receive based on the number of cups they buy.\n## Solution\n## Going through the code\n## Logical Operators\nLogical operators are used to perform logical operations on variables and values.\n## Task",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/operators/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Solution\n## Going through the code\n## Logical Operators\nLogical operators are used to perform logical operations on variables and values.\n## Task\nCreate a program that checks if a user is eligible for a tea subscription discount. The discount applies if the user is either a student or has purchased more than 15 cups. Ask the user to input their status (student or not) and their cup count.\n## Solution\n## Going through the code\n## Bitwise Operators\nBitwise operators are used to perform bitwise operations on variables and values. Bitwise operations are used to manipulate individual bits of a binary number. Decimal numbers are represented using binary numbers, which are made up of 1s and 0s. Bitwise operators are used to perform operations on these binary numbers.\nYou can learn more about bitwise operators by visitingBitwisecmd.com.\nWe talked about it in the video, watch it for more information.\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/operators/",
+    "chunk_id": 2
+  },
+  {
+    "content": "You can learn more about bitwise operators by visitingBitwisecmd.com.\nWe talked about it in the video, watch it for more information.\n## Summary\nIn this chapter, we have learned about operators in C++. We have also learned about the different types of operators and how to use them. By the end of this chapter, you should have a good understanding of how to use operators in C++.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nData Types\nControl Flow",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/operators/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Control Flow\nIn this chapter, we will learn about control flow in C++. We will start by learning about conditional statements and how to use them.\nHere we are using task based approach. Each task will help you to understand the requirements and then you will be able to implement the code.\n## If Statement\nIf statement is used to check if a condition is true or false. If the condition is true, then the code inside the if statement is executed. If the condition is false, then the code inside the if statement is not executed.\n## Task\nWrite a program that checks if the user wants to order Green Tea. If the user types “Green Tea,” the program should confirm their order.\n## Solution\n## Going through the code\n## If-Else Statement\nIf-else statement is used to check if a condition is true or false. If the condition is true, then the code inside the if statement is executed. If the condition is false, then the code inside the else statement is executed.\n## Task",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/control-flow/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Task\nWrite a program that checks if a tea shop is open. If the current hour (input by the user) is between 8 AM and 6 PM, the shop is open; otherwise, it’s closed.\n## Solution\n## Going through the code\n## Nested If-Else\nNested if-else consists of an if statement inside an else statement.\n## Challenge\nA tea shop offers discounts based on the number of tea cups ordered. Write a program that checks the number of cups ordered and applies a discount:\n## Solution\n## Going through the code\n## Switch Case\nSwitch statement is used to check if a variable matches a specific value. If the variable matches the value, then the code inside the case statement is executed. If the variable does not match the value, then the code inside the default statement is executed.\nIt is useful when you have multiple options and want to execute different code based on the value of the variable.\n## Task",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/control-flow/",
+    "chunk_id": 1
+  },
+  {
+    "content": "It is useful when you have multiple options and want to execute different code based on the value of the variable.\n## Task\nWrite a program that lets the user select a tea type from a menu. Use a switch statement to display the price based on the selected tea:\n## Solution\n## Going through the code\n## Summary\nIn this chapter, we have learned about conditional statements and how to use them. We have also learned about loops and how to use them. We have also learned about switch statements and how to use them.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nOperators\nLoops",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/control-flow/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Loops\nIn this chapter, we will learn about loops in C++. Our learning will be based on the task based approach. Each task will help you to understand the requirements and then you will be able to implement the code.\n## While Loop\nWhile loop is used to execute a block of code as long as a condition is true. The loop will continue to execute as long as the condition is true. The loop will execute at least once, even if the condition is initially false.\n## Task\nWrite a program that keeps track of tea orders. Each time a cup of tea is made, decrease the number of cups remaining. The loop should run until all cups are served.\n## Solution\n## Going through the code:\nWe have already gone through the basic code already many times, in this chapter we will focus on thewhileloop.\nwhile loop is used to execute a block of code as long as a condition is true.\nThe condition is checked before each iteration of the loop.\nThe loop will continue to execute as long as the condition is true.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 0
+  },
+  {
+    "content": "The condition is checked before each iteration of the loop.\nThe loop will continue to execute as long as the condition is true.\nThe loop will execute at least once, even if the condition is initially false.\nHere while checks if the teaCups is greater than 0, if it is true, it will execute the code inside the loop. If the teaCups is 0, the loop will not execute and the program will continue to the next line.\n## Do-While Loop\nDo-while loop is used to execute a block of code as long as a condition is true. The loop will execute at least once, even if the condition is initially false.\n## Task\nCreate a program that asks the user if they want more tea. Keep asking them until they type “no” (case-insensitive), using a do-while loop.\n## Solution\n## Going through the code\nHere we have used thedo-whileloop. The loop will execute at least once, even if the condition is initially false.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Solution\n## Going through the code\nHere we have used thedo-whileloop. The loop will execute at least once, even if the condition is initially false.\nHeredoprints the message and asks the user for input. Then it checks if the response is equal to “no” or “No”. If it is, it will execute the code inside the loop. If it is not, it will exit the loop and continue to the next line.\n## For Loop\nFor loop is used to execute a block of code for a specified number of times. The loop will execute the code inside the loop for the specified number of times.\n## Task\nWrite a program that prints the brewing instructions for making 5 cups of tea. The brewing process should be printed once for each cup using a for loop.\n## Solution\n## Going through the code:\nHere we are using theforloop. The loop will execute the code inside the loop for the specified number of times.\nFor loop has three parts:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Solution\n## Going through the code:\nHere we are using theforloop. The loop will execute the code inside the loop for the specified number of times.\nFor loop has three parts:\nIn our case, we are initializing the loop variable withi = 1and checking if the loop should continue withi <= teaCups. If the condition is true, the code inside the loop will be executed. If the condition is false, the loop will exit and the program will continue to the next line.\n## Break Keyword\nBreak keyword is used to exit the loop immediately, without executing the remaining code inside the loop.\n## Task\nWrite a program that keeps serving tea until the user says they’ve had enough (input ‘stop’). Use a break statement to exit the loop when the user types ‘stop’.\n## Solution\n## Going through the code:\nIn this case, we are using thebreakkeyword to exit the loop when the user types ‘stop’. Thebreakkeyword is used to exit the loop immediately, without executing the remaining code inside the loop.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 3
+  },
+  {
+    "content": "In this case, we are using thebreakkeyword to exit the loop when the user types ‘stop’. Thebreakkeyword is used to exit the loop immediately, without executing the remaining code inside the loop.\n## Continue Keyword\nContinue keyword is used to skip the remaining code inside the loop and move to the next iteration of the loop.\n## Task\nWrite a program that skips brewing green tea if the user dislikes it. Use a continue statement to skip over green tea but brew other types of tea in a list.\n## Solution\n## Going through the code:\nIn this code solution, we are introducing 2 new concepts:string teaTypes[5] = {\"Oolong tea\", \"Orange Tea\", \"Green Tea\", \"Black Tea\", \"Lemon Tea\"};This line declares an array of strings with 5 elements.\nArray is a collection of elements of the same type. In this case, we are declaring an array of strings. In memory, the array is stored as a contiguous block of memory.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 4
+  },
+  {
+    "content": "Array is a collection of elements of the same type. In this case, we are declaring an array of strings. In memory, the array is stored as a contiguous block of memory.\nAlso we are using thecontinuekeyword to skip over the green tea. Thecontinuekeyword is used to skip the remaining code inside the loop and move to the next iteration of the loop.\n## Nested Loops\nNested loops are loops inside of loops. The inner loop is executed for each iteration of the outer loop.\n## Task\nWrite a program that brews multiple cups of different types of tea. For each type of tea, brew 3 cups using a nested loop.\n## Solution\n## Going through the code:\nIn this code solution, we have already gone through the concept of Array. Further, we are using nested loops to brew multiple cups of different types of tea. The outer loop is used to iterate over the array of strings, and the inner loop is used to iterate over the number of cups to be brewed.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 5
+  },
+  {
+    "content": "For every iteration of the outer loop, the inner loop will execute 3 times. The inner loop will print the number of cups being brewed and the type of tea being brewed.\n## Summary\nIn this chapter, we have learned about loops in C++. We have also learned about the different types of loops and how to use them.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nControl Flow\nFunctions",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+    "chunk_id": 6
+  },
+  {
+    "content": "## Functions\nIn this chapter, we will learn about functions in C++. Our learning will be based on the task based approach. Each task will help you to understand the requirements and then you will be able to implement the code.\n## Functions in C++\nA function is a block of code designed to perform a specific task.\nFunctions in C++ follow this basic syntax:\nFor example,\n## Declaring a Function\nFunction declaration tells the compiler about the function’s name, return type, and parameters. It’s also called afunction prototype.\nThe function body is defined elsewhere.\nFor example,\n## Defining a Function\nA function definition includes the full function with the body. You must define the function after declaring it if it’s not inline.\nFor example,\n## Calling a Function\nTo execute a function, you call it by its name followed by parentheses. If the function takes arguments, pass them inside the parentheses.\nFor example:\n## Function Parameters\nFor example,\n## Pass by Value",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/functions/",
+    "chunk_id": 0
+  },
+  {
+    "content": "For example:\n## Function Parameters\nFor example,\n## Pass by Value\nPass by value means the function receives a copy of the argument. Changes made inside the function do not affect the original variable.\nFor example,\n## Pass by Reference\nPass by reference passes the actual variable, so changes in the function affect the original variable.\nFor example,\n## Scope of Variable\nFor example,\n## Function Overloading\nFunction overloading allows multiple functions with the same name but different parameter types or numbers.\nFor example,\n## Lambda Functions\nFor example,\n## Summary\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nLoops\nWelcome",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-c/functions/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Chai aur Django” series on theChai aur CodeYouTube channel. For the best learning experience, we recommend following these docs alongside our video tutorials.\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nFunctions\nDjango Intro",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Getting Started\nDjango is popular framework amongst python developers and used by many large companies, including Google, Facebook, and Instagram.\nIn this guide, we will learn how to create a Django project, create a view, create a template, and add CSS and JavaScript to our project. We will also learn how to run the server and view the output.\n## What is Django?\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.\nDjango is a full-featured web framework that follows the Model-View-Controller (MVC) architectural pattern. It provides a set of tools and libraries for building web applications, including an ORM, a templating engine, and a built-in admin interface.\n## Environment Setup",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Environment Setup\nTo get started with Django, you’ll need to install it on your computer. You can do this by running the following command in your terminal, after setting up a virtual environment:\nThis is regular way but these days I am usinguvto manage virtual environment and other tools. It’s ridiculously easy and fast and cross-platform.\nNow for all installations, you can useuv pip installcommand. For example, to install Django, run the following command:\n## Django Project\nA Django project is a collection of settings and configurations that define the structure and behavior of a web application. It includes the code for the application, as well as the templates, static files, and other resources that make up the application.\nTo create a new Django project, you can use the following command:\nThis will create a new directory calledchai-aur-djangowith the basic structure of a Django project.\n## Start a Django Server\nTo start the Django server, you can use the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 1
+  },
+  {
+    "content": "This will create a new directory calledchai-aur-djangowith the basic structure of a Django project.\n## Start a Django Server\nTo start the Django server, you can use the following command:\nThis will start the server and make it accessible atlocalhost:8000.\nIgnore the unapplied migrations warning. This is a common issue when starting a new Django project. We will address this in a later section.\n## Creating our first views\nCreate a new file calledviews.pyin thechai-aur-djangodirectory. In this file, we will define a few views that are simple functions that return a response. We want to have home page, about page, and contact page. Each of these pages will return html content.\nNow, let’s create a new file calledurls.pyin thechai-aur-djangodirectory. In this file, we will define the URL patterns for our application. If the file is already there, you can just add the following code to the end of the file:\nNow, let’s run the server again and visit the following URLs:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 2
+  },
+  {
+    "content": "Now, let’s run the server again and visit the following URLs:\nYou should see the following output:\n## Adding Templates\nIn Django, templates are used to generate HTML pages. They are used to display data and perform logic in a web application. To create a template, you can create a new file calledtemplates/index.htmlin thechai-aur-djangodirectory. Make sure that template folder is at same level asmanage.pyfile. In this file, you can write HTML code that will be used to generate the HTML page.\nNow, let’s run the server again and visit thehttp://localhost:8000/URL. You should see the following output:\n## Adding CSS and JavaScript",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 3
+  },
+  {
+    "content": "Now, let’s run the server again and visit thehttp://localhost:8000/URL. You should see the following output:\n## Adding CSS and JavaScript\nTo add CSS and JavaScript to your Django project, you can create a new file calledstatic/css/style.cssin thechai-aur-djangodirectory. In this file, you can write CSS code that will be used to style the HTML page. You can also create a new file calledstatic/js/script.jsin thechai-aur-djangodirectory. In this file, you can write JavaScript code that will be used to add interactivity to the HTML page.\nTo add this css file go tosettings.pyand add the following line:\nIn theindex.htmlfile, add the following line at the top of the file:\nNow, let’s change thehomeview to use the new template:\nNow, let’s run the server again and visit thelocalhost:8000URL. You should see the following output:\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 4
+  },
+  {
+    "content": "Now, let’s change thehomeview to use the new template:\nNow, let’s run the server again and visit thelocalhost:8000URL. You should see the following output:\n## Summary\nIn this tutorial, we have learned how to create a Django project, create a view, create a template, and add CSS and JavaScript to our project. We have also learned how to run the server and view the output. This is the end of the first part of the tutorial. We will surely have more fun in the next part. Keep enjoying Chai aur Django!\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nJinja Templates App",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+    "chunk_id": 5
+  },
+  {
+    "content": "## Jinja Templates App in Django\nJinja2 is a template engine for Python. It is used in Django to render templates. It is a very powerful template engine that can be used to render HTML, XML, and other formats. It is also used to render templates for the Django admin interface.\n## Installation\nIf you are in Django, you don’t need to install Jinja2 separately. It is already installed with Django. Django also comes with a built-in template configurations that allows you to use Jinja2 templates.\nJinja2 templates are written in a simple text format called HTML. The syntax is very similar to HTML, but with some additional features. You need to inject variables into the template using the{{ variable }}syntax. For example, if you want to display a name, you can use the following code:\nThis will display the name of the person who is currently logged in, if there is one.\n## Common Template Tags\nFollowing are some of the common template tags that you can use in Jinja2 templates:\n## % if %",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Common Template Tags\nFollowing are some of the common template tags that you can use in Jinja2 templates:\n## % if %\nThe{% if %}tag is used to conditionally display content in a template. It takes a boolean expression as an argument, and if the expression evaluates toTrue, the content inside the tag will be displayed. If the expression evaluates toFalse, the content will be skipped.\nFor example, the following code will display a greeting message only if thenamevariable is not empty:\n## {% for %}\nThe{% for %}tag is used to iterate over a sequence of items. It takes a variable name and a sequence as arguments, and displays the content inside the tag for each item in the sequence.\nFor example, the following code will display a list of names:\n## {% block %}\nThe{% block %}tag is used to define a block of content that can be overridden in child templates. It takes a name as an argument, and defines a block with that name that can be overridden in child templates.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 1
+  },
+  {
+    "content": "For example, the following code defines a base template that includes a header and a footer:\nAnd the following code defines a child template that overrides thecontentblock:\nIn this example, thecontentblock in the child template overrides thecontentblock in the base template, and thetitleblock is not overridden.\n## {% include %}\nThe{% include %}tag is used to include the contents of another template file. It takes a template name as an argument, and includes the contents of the template file in the current template.\nFor example, the following code includes the contents of a template file calledheader.html:\nThis will include the contents of theheader.htmltemplate file in the current template.\n## {% extends %}\nThe{% extends %}tag is used to extend a base template. It takes a template name as an argument, and extends the base template with the contents of the template file.\nFor example, the following code extends thebase.htmltemplate with the contents of a template file calledchild.html:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 2
+  },
+  {
+    "content": "For example, the following code extends thebase.htmltemplate with the contents of a template file calledchild.html:\nIn this example, thecontentblock in the child template overrides thecontentblock in the base template, and thetitleblock is not overridden.\n## {% load %}\nThe{% load %}tag is used to load a template tag library. It takes a library name as an argument, and loads the template tag library with that name.\nFor example, the following code loads thestatictemplate tag library:\nThis will load thestatictemplate tag library, which provides a set of template tags for working with static files.\n## {% static %}\nThe{% static %}tag is used to include a static file in a template. It takes a file path as an argument, and includes the contents of the file in the current template.\nFor example, the following code includes the contents of a CSS file calledstyle.css:\nThis will include the contents of thestyle.cssfile in the current template.\n## {% url %}",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 3
+  },
+  {
+    "content": "For example, the following code includes the contents of a CSS file calledstyle.css:\nThis will include the contents of thestyle.cssfile in the current template.\n## {% url %}\nThe{% url %}tag is used to generate a URL for a view. It takes a view name and a set of arguments as arguments, and generates a URL for the view with those arguments.\nFor example, the following code generates a URL for theindexview with thenameargument set to'John':\nThis will generate a link to the home page with thenameargument set to'John'.\n## Apps in Django\nThe most common way to organize your Django project is to use apps. An app is a self-contained module that contains models, views, templates, and other components of your project. Apps allow you to organize your code into logical units and make it easier to manage and maintain your project.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 4
+  },
+  {
+    "content": "You can create it manually or use thestartappcommand to create a new app for you. To create an app, navigate to the directory where you want to create the app and run the following command:\nThis will create a new directory calledchaiwith the necessary files and directories for an app.\nTo add an app to your project, you need to add it to theINSTALLED_APPSsetting in your project’ssettings.pyfile. You can do this by adding the app’s name to the list of installed apps:\nThis will add thechaiapp to your project’s installed apps.\n## Templates in Apps and layout extension\nIn Django, templates are organized into apps. Each app can have its own templates directory, which contains the templates for that app. Create a new directory calledtemplatesin your app’s directory. Inside the chai directory, create atemplatesdirectory and add aall_chai.htmlfile to it.\nAdd your basic html code to theall_chai.htmlfile.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 5
+  },
+  {
+    "content": "Add your basic html code to theall_chai.htmlfile.\nTo serve this file, we need a view and a url. Create a new file calledviews.pyin your app’s directory. Add the following code to the file:\nThis view will render theall_chai.htmltemplate when it is called.\nCreate a new file calledurls.pyin your app’s directory. Add the following code to the file:\nThis urlpattern will map the root URL of the app to theall_chaiview.\nNow, we need to make aware of this new urlpattern in our project’surls.pyfile. Add the following code to the project’surls.pyfile:\nThis will include thechai.urlsfile in the project’s urlpatterns.\nNow, we can access theall_chaiview by going tohttp://localhost:8000/chai/.\n## Common Layout for all pages\nIn Django, you can create a common layout for all pages in your project by using thebase.htmltemplate. Create a new file calledbase.htmlin your project’s templates directory. Add the following code to the file:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 6
+  },
+  {
+    "content": "Now, this layout can be used for all pages in your project. To use it, you need to include it in your templates. For example, if you want to use the layout for theall_chaiview, you can add the following code to theall_chai.htmlfile:\nThis will use thebase.htmllayout and override thetitleandcontentblocks with the appropriate values for theall_chaiview.\n## Summary\nIn this part, we learned about Jinja2 templates and how to use them in Django. We also learned about apps in Django and how to create a common layout for all pages in your project. By using Jinja2 templates and apps, you can create dynamic and reusable templates in Django that make your web development process more efficient and enjoyable.\nFollow chai aur Django to learn more about Django and its features on youtube.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nDjango Intro\nTailwind Integration",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+    "chunk_id": 7
+  },
+  {
+    "content": "## Tailwind with Django\nTailwind CSS is a CSS framework that allows you to build custom styles for your web pages. It provides a set of pre-built classes that you can use to style your HTML elements.\nBefore we run the next command we need pip to be installed in your system. So far, we have been usinguvto install packages, which is new and not yet supported by many packages.\nTo install Tailwind CSS in your Django project, you can use the following steps:\nThis will install thedjango-tailwindpackage and thedjango-tailwind[reload]package, which includes thetailwind-djangocommand-line tool.\nOnce you have installed Tailwind CSS, you can use thetailwind-djangocommand to generate the necessary files for your project. This command will create atailwind.config.jsfile in your project directory, as well as astatic/css/tailwind.cssfile that contains the compiled Tailwind CSS.\nNow, addtailwindto yourINSTALLED_APPSin yoursettings.pyfile:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Now, addtailwindto yourINSTALLED_APPSin yoursettings.pyfile:\nNext, run thetailwind-djangocommand to generate the necessary files for your project:\nAdd the newly createthemeto your INSTALLED_APPS in yoursettings.pyfile:\nNow run the following command to generate the necessary files for your project:\nYou can now use the Tailwind CSS classes in your Django templates. All though, tailwind provides you a base template that you can use to start your project but you can now use tailwind in any base template you want.\n☕️ I was not able to get tailwind intellisense to work in my IDE, so I had to create atailwind.config.jsfile manually. This file is totally empty but works\nFinally, suggestions are there but you are not getting the desired result. That’s because this app needs nodejs to be installed in your system. And you need to provide the path to the nodejs executable in yoursettings.pyfile:\nYou can use commandwhich nodeto find the path to the nodejs executable.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+    "chunk_id": 1
+  },
+  {
+    "content": "You can use commandwhich nodeto find the path to the nodejs executable.\nNow everything is ready and we need 2 terminals to run the app.\nFirst terminal:\nSecond terminal:\nfor production change this command topython manage.py tailwind build\n## Hot Reloading\nSince we have already installed thedjango-tailwind[reload]package, we can use thetailwind-djangocommand to enable hot reloading in our project.\nAdd it to yourINSTALLED_APPSin yoursettings.pyfile:\nAdd following code to yoursettings.pyfile:\nAdd following code to yoururls.pyfile:\n## Enable the admin panel in Django\nNow that we have Tailwind CSS installed and configured, we can enable the admin panel in our Django project. All settings and urls for the admin panel are already provided in django.\nFirst run the migrate command to create the necessary tables for the admin panel:\nNext is to create the admin user:\nAdd your username, email (this can be empty), and password to thecreatesuperusercommand.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+    "chunk_id": 2
+  },
+  {
+    "content": "Next is to create the admin user:\nAdd your username, email (this can be empty), and password to thecreatesuperusercommand.\nNow you can acces the admin panel by going tolocalhost:8000/adminin your browser. Enter your username and password to log in.\nTake a tour of the admin panel and in case you are wondering, yes, we can change the look and feel of the admin panel using so many plugins and themes that are available in the market but that is out of the scope of this tutorial.\n## Conclusion\nIn this tutorial, we have learned how to install and configure Tailwind CSS in a Django project. We have also learned how to use the admin panel in Django and how to enable hot reloading in our project. With these skills, you can now start building your own Django projects with Tailwind CSS and other plugins and themes that you need.\nNow, go and subscribe toChai aur Codeto get notified about new tutorials and updates on my channel.\n## Start your journey with ChaiCode",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+    "chunk_id": 3
+  },
+  {
+    "content": "Now, go and subscribe toChai aur Codeto get notified about new tutorials and updates on my channel.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nJinja Templates App\nModels",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+    "chunk_id": 4
+  },
+  {
+    "content": "## Django Models\nDjango models are the heart of the Django framework. They are used to define the structure of the database and the relationships between different models. In this section, we will explore the basics of Django models and how to create them.\n## Defining a Model\nSo far, we have created a same chai app and it’s time to add some data to it. To do this, we need to define a model. A model is a Python class that represents a table in the database. It contains fields that define the structure of the table and methods that define the behavior of the table.\nTo define a model, we need to use themodels.pyfile in our Django project. Add the following code to themodels.pyfile:\nIn this code, we have defined aChaiVarietymodel with the following fields:\nThe__str__method is used to return a string representation of the object. In this case, it returns the name of the chai variety.\nSince we are using image field, we need to installPillowlibrary to use it.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/models/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Since we are using image field, we need to installPillowlibrary to use it.\nThen we need add some settings to oursettings.pyfile to use the image field.\nNow, let’s configure our projectsurls.pyfile to reflect media files.\n## Adding Data to DB\nNow that we have defined our model, we can add some data to the database. Lets migrate the database and add some data to theChaiVarietymodel.\nNow, let’s add some data to the database. You can go toadmin.pyfile and add the following code to theChaiVarietymodel.\nNow, go to the admin page and you should see theChaiVarietymodel listed. Add some data to the model and save it.\n## Create a View\nNow that we have added some data to the database, we can create a view to display the data. Go to theviews.pyfile and add the following code.\n## Get Data in Template\nIn theall_chai.htmltemplate, we can use thechaisvariable to display the data. Add the following code to theall_chai.htmltemplate.\n## Add Description",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/models/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Get Data in Template\nIn theall_chai.htmltemplate, we can use thechaisvariable to display the data. Add the following code to theall_chai.htmltemplate.\n## Add Description\nWe can add a description to theChaiVarietymodel by adding adescriptionfield to the model. Add the following code to themodels.pyfile.\n## Add a Details View\nNow that we have added a description to theChaiVarietymodel, we can create a view to display the details of a specific chai variety. Go to theviews.pyfile and add the following code.\nIn theall_chai.htmltemplate, we can use the url to display the details of a specific chai variety.\n## Configure urls.py\nNow that we have created a view to display the details of a specific chai variety, we need to configure the urls.py file to reflect this. Go to theurls.pyfile and add the following code.\n## Createchai_detail.htmlTemplate",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/models/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Createchai_detail.htmlTemplate\nNow that we have created a view to display the details of a specific chai variety, we need to create a template to display the details. Go to thechaifolder and create a new file calledchai_detail.html. Add the following code to thechai_detail.htmltemplate.\n## Summary\nIn this section, we have learned how to create a model, add data to the database, create a view to display the data, and create a view to display the details of a specific chai variety. We have also learned how to configure the urls.py file to reflect the views and how to create a template to display the details.\nWith these concepts, we can create a complete web application that allows users to add and view chai varieties.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nTailwind Integration\nRelationships & Forms",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/models/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Relationships and Forms in Django\nDjango has a number of built-in relationships that you can use to connect your models to each other. These relationships are used to create a more complex and powerful database.\nThe most common relationships are:\n## One-to-many\nOne-to-many relationships are used when you have a model that has a foreign key to another model. In a One-to-Many relationship, each instance of the parent model can be associated with multiple instances of the child model. For example, a Chai variety can have multiple reviews.\nIn the existingchaiapp, openmodels.pyand add the following code:\nThis code creates a new model calledChaiReviewthat has a foreign key to theChaiVarietymodel. Theuserfield is a foreign key to theUsermodel, and theratingandcommentfields are integers and text fields respectively.\n## Many-to-many",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/relationships-and-forms/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Many-to-many\nMany-to-many relationships are used when you have a model that has a many-to-many relationship with another model. In a Many-to-Many relationship, each instance of one model can be associated with multiple instances of another model, and vice versa. For example, a Chai variety can be featured in multiple stores, and each store can feature multiple chai varieties.\nIn the existingchaiapp, openmodels.pyand add the following code:\n## One-to-one\nOne-to-one relationships are used when you have a model that has a one-to-one relationship with another model. In a One-to-One relationship, each instance of one model is associated with one and only one instance of another model. For example, each Chai variety can have a unique certificate.\nIn the existingchaiapp, openmodels.pyand add the following code:\n## Update the admin\nIn the existingchaiapp, openadmin.pyand add the following code:\n## Adding a form on frontend",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/relationships-and-forms/",
+    "chunk_id": 1
+  },
+  {
+    "content": "In the existingchaiapp, openmodels.pyand add the following code:\n## Update the admin\nIn the existingchaiapp, openadmin.pyand add the following code:\n## Adding a form on frontend\nIn the existingchaiapp, create a new file calledforms.pyin thechaiapp directory. In this file, add the following code:\n## Handle the view for the form\nIn the existingchaiapp, openviews.pyand add the following code:\n## Add the template\nIn the existingchaiapp, create a new file calledchai_stores.htmlin thechaiapp directory. In this file, add the following code:\n## Update the urls\nIn theurls.pyfile, add the following code to theurlpatternslist:\n## Run the server\nIn the terminal, navigate to thechaidirectory and run the following command:\nThat’s it! You have successfully created a form that allows users to search for stores that have a specific chai variety. You can now add more functionality to the form and the view to make it more useful.\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/relationships-and-forms/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Summary\nIn this section, you learned how to create a form that allows users to search for stores that have a specific chai variety. We have also discussed about the different types of relationships in Django and how to use them in your models and views.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nModels\nWelcome",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-django/relationships-and-forms/",
+    "chunk_id": 3
+  },
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Master SQL for Web Development” section in theComplete Web Dev Course on Udemycourse. For the best learning experience, we recommend following these docs alongside our video lectures.\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 22, 2025\nRelationships & Forms\nSQL Intro",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Introduction to SQL\nSQL (Structured Query Language) is a standardized language used to manage and manipulate relational databases. SQL allows you to:\nReal World Example\nImagine you own a chai business with stores in multiple cities. You want to store information about different chai varieties, their ingredients, prices, and the cities where they’re sold. SQL helps you manage and retrieve this information efficiently.\n## What is PostgreSQL?\nPostgreSQL is an open-source, powerful relational database management system (RDBMS) that supports advanced SQL features. It is known for:\nReal World Example\nYou can use PostgreSQL to store chai data across cities and perform complex queries like “Which city sells the most varieties of chai?”\n## Relational Database Concepts\nExample: AChaitable with the following columns:id,name,ingredients,price,city_sold.\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/introduction/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Relational Database Concepts\nExample: AChaitable with the following columns:id,name,ingredients,price,city_sold.\n## Summary\nIn this chapter we have learned about SQL and PostgreSQL. We have also learned about relational databases and their concepts. By the end of this chapter, you should have a good understanding of SQL and how it can be used to manage and manipulate relational databases.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nPostgreSQL",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/introduction/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## PostgreSQL\nPostgreSQL is a powerful, open-source relational database management system (RDBMS) that is widely used for storing and managing large amounts of structured data. It is known for its robustness, scalability, and support for complex queries and transactions.\n## Installing PostgreSQL\nTo install PostgreSQL, on:\n## Setting up a PostgreSQL\nTo set up a PostgreSQL database, follow these steps:\nStart the PostgreSQL Service\nStart the PostgreSQL service to ensure it’s running on your system:\nCreate a Database\ncreate a new database for your chai and city date:\nthis creates a new database calledchai_and_cityin postgresql.\nConnecting to the Database\nConnecting to your newly created database using PostgreSQL command line interface:\nthis will prompt you to enter your password. Enter your password.\nHere -d is a flag that specifies the database you want to connect to.\n## pgAdmin as GUI",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/postgres/",
+    "chunk_id": 0
+  },
+  {
+    "content": "this will prompt you to enter your password. Enter your password.\nHere -d is a flag that specifies the database you want to connect to.\n## pgAdmin as GUI\npgAdminis a graphical interface for managingPostgreSQLdatabases. Follow these steps to connect and manage your database using pgAdmin:\n## Summary\nIn this chapter, we learned how to installPostgreSQLand set up a database. We also learned how to connect to the database using PostgreSQL command line interface andpgAdmin.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nSQL Intro\nDatabase Design",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/postgres/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Normalization\nDatabase design is the process of creating a logical structure for storing data in a database. It involves defining the relationships between tables, identifying the primary and foreign keys, and ensuring that the data is normalized to minimize redundancy and improve data integrity.\n## Understanding Database Design Principles\n## What is Normalization?\nNormalization organizes a database into tables and columns to:\n## First Normal Form (1NF)\n## Second Normal Form (2NF)\n## Third Normal Form (3NF)\n## Entity Relationship Diagrams (ERDs)\nERDs are used to visually represent relationships between database entities.\n## Relationship in SQL\nThere are different types of relationships in SQL:\n## LMS practice Exercise\nWe will create a fun practice database design for Learning Management System (LMS) using SQL. The LMS will have the following entities:\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/normalization/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## LMS practice Exercise\nWe will create a fun practice database design for Learning Management System (LMS) using SQL. The LMS will have the following entities:\n## Summary\nIn this chapter, we have learned about database design and normalization. We have also learned about the basic data types and how to use them. We have also learned about the different types of relationships and how to use them.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nPostgreSQL\nExercise - DB Design",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/normalization/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Database Design Exercise\nIn this exercise, we’ll explore practical database design using a real-world scenario. We’ll learn how to structure and manage data effectively by implementing a database solution for a chai store business.\n## Client Requirements:\nYou’ve been approached by a client who runs a small chai store and wants to set up a simple database to manage their chai offerings. The client has provided the following requirements:\nDatabase Setup:Create a new database namedchai_store_dbfor managing chai products.\nChai Table:Create a table calledchai_storewith the following columns:\nInitial Data Insertion:The client provides a list of their chai offerings and wants you to insert the following data:\nData Queries:The client needs some reports:\nData Updates:The client wants to update the price of “Iced Chai” to ₹38 and mark it as available.\nData Deletions:The client decides to discontinue “Black Chai” and requests its removal from the database.\n## SQL Solution:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/database-design-exercise/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Data Deletions:The client decides to discontinue “Black Chai” and requests its removal from the database.\n## SQL Solution:\nCreate a new Database for the chai store:\nCreate a new table for the chai store:\nInsert the initial data into the chai store table:\nDisplay all chai names and prices, using column aliases:\nFind all chai varieties that have the word “Chai” in their name:\nList all chai varieties that cost less than ₹30:\nShow chai varieties sorted by price from highest to lowest:\nUpdate the price of “Iced Chai” to ₹38 and mark it as available:\nDelete “Black Chai” from the database:\n## Additional Resources:\nTo delete entire table:\nAlso, you can use theTRUNCATEcommand to delete all rows from a table:\nMost of the time you will see thatDROPcommand is used withIF Existsclause to avoid accidental errors:\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/database-design-exercise/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Also, you can use theTRUNCATEcommand to delete all rows from a table:\nMost of the time you will see thatDROPcommand is used withIF Existsclause to avoid accidental errors:\n## Summary\nIn this chapter, we have learned about the basics of SQL and how to use it to manage and manipulate relational databases. We have also learned about the different types of relationships in SQL and how to use them.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nDatabase Design\nSQL Joins and Keys",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/database-design-exercise/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## SQL Joins and Keys\nIn relational databases,joinsare used to combine rows from two or more tables based on a related column between them. There are several types of joins, each designed for specific purposes. Joins are a way to combine data from multiple tables to create a single result set.\n## Types of Joins\nThere are several types of joins, each designed for specific purposes. Here are some common types of joins:\n## Inner Join\n## Left Join\n## Right Join\n## Full Join\n## Cross Join\n## Keys in SQL\nIn SQL, keys are crucial for organizing and relating data between tables. There are two main types of keys:\n## Primary Key\n## Foreign Key\nTip\nLet’s understand primary and foreign keys through a practical example of a chai store database.\n## Practical Example: Chai Store Database\nWe’ll create four interconnected tables to demonstrate how keys work in a real scenario:\nThecustomerstable stores information about each customer.\nLet’s add some sample data to the chai_store table:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-and-keys/",
+    "chunk_id": 0
+  },
+  {
+    "content": "We’ll create four interconnected tables to demonstrate how keys work in a real scenario:\nThecustomerstable stores information about each customer.\nLet’s add some sample data to the chai_store table:\nThechai_storetable stores information about the chai available in the store.\nLet’s add some sample data to the chai_store table:\nTheorderstable stores information about each order placed by customers.\nLet’s add some sample data to the orders table:\nTheorder_itemstable stores information about each item in each order.\nLet’s add some sample data to the order_items table:\nThis is our sample setup for the chai store database. This consists of four tables: customers , chai_store , orders , and order_items . Tables are storing data about customers, chai varieties, orders, and the items in each order. Tables are linked together using foreign keys.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-and-keys/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Primary keys are used to uniquely identify each row in a table. Foreign keys are used to establish relationships between tables. Foreign keys are used to link tables based on a related column between them.\n## Summary\nIn this chapter, we have learned about the basics of SQL Joins. Also we have learned about Primary Key and Foreign Key.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nExercise - DB Design\nExercise - Joins",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-and-keys/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## SQL Joins Exercise\nIn this exercise, we’ll explore practical sql joins using a real-world scenario. We’ll learn how to use joins to combine data from multiple tables.\n## Create 2 tables for a chai store\nWe will create 2 tables for a chai store so that we can practice joins. The tables will be:\nLet’s add some sample data to the chai table:\nLet’s add some sample data to the orders table:\n## Challenges\nNow, let’s try to solve some challenges using joins.\nInner JoinGet the list of all orders with the chai variety and customer details.\nLeft JoinShow all customers and their orders, but also include customers who haven’t ordered anything yet (if any).\nRight JoinShow all chai varieties, including those that haven’t been ordered yet.\nFull Outer JoinList all customers and all chai varieties, with or without orders.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nSQL Joins and Keys\nWelcome",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-exercise/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Welcome\nHaanji! Swagat haiChai aur Docsmein. 🎉\nThis guide has been carefully curated as a comprehensive reference for the “Deploy To Production” series on theHitesh ChoudharyYouTube channel. For the best learning experience, we recommend following these docs alongside our video tutorials.\nLet’s begin with the basics in the next section…\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nExercise - Joins\nServer Startup",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/welcome/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Setting up VPC for deployment\nIn this tutorial, we will learn how to set up a server for hosting. We will cover topics such as server selection, server configuration, and server hardening.\n## Server Selection\nBefore setting up a server, it’s important to choose the right server for your needs. There are several factors to consider when selecting a server, including:\n## Server Configuration\nOnce you have chosen a server, you need to configure it properly. This involves setting up the server’s operating system, configuring the server’s network settings, and setting up any necessary software or applications.\n## OS Configuration\nThe first step in configuring a server is to set up the operating system. This involves installing the operating system and any necessary software packages. Here are some steps to follow:\nChoose an operating system\nSelect an operating system that is compatible with your needs and budget. Some popular options include Ubuntu, CentOS, and Debian.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Choose an operating system\nSelect an operating system that is compatible with your needs and budget. Some popular options include Ubuntu, CentOS, and Debian.\nUpdate the operating system\nUse a package manager likeaptoryumto update the operating system on the server.\nConfigure the network settings\nSet up the network settings, such as IP address, subnet mask, and gateway, to ensure that the server can communicate with other devices on the network.\nInstall any necessary software\nInstall any necessary software packages, such as web servers, database servers, or development tools, on the server.\n## Get an account on any cloud provider\nWe will useLinodeas our cloud provider.Linodeis a cloud hosting provider that offers a wide range of virtual private servers (VPS) with varying configurations and prices. It is a popular choice for hosting web applications and other types of software.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Once the account is created, you can choose the plan that best suits your needs. The plan will determine the number of servers you can create, the amount of storage space available, and the price per month.\nOnce the machine is created and up and running, you can connect to it using your terminal, in my case I am usingwarpterminal. You can usewarpto connect to your machine and manage it remotely.\nNow we are inside our machine and we can start installing the necessary packages and software but before that let’s upgrade our system.\nAlways run theapt updatecommand beforeapt upgradeto ensure that you have the latest packages available.\n## Change password (optional)\nAlthough most cloud providers offer a way to change the password of your machine directly from the control panel but in case you want to do it manually, you can use the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 2
+  },
+  {
+    "content": "Although most cloud providers offer a way to change the password of your machine directly from the control panel but in case you want to do it manually, you can use the following command:\nThis will prompt you to enter your current password and then you will be prompted to enter a new password. Once you have entered the new password, you will be prompted to confirm it. After that, the password will be changed.\n## Add Non-root User\nTo add a non-root user, you can use the following command:\nThis will create a new user with the specified username and you can check the groups of the user using thegroupscommand. After that, you can add the user to the sudoers group using the following command:\nThis will add the user to the sudoers group, giving them the ability to run commands with sudo privileges. Now lets create a password for the user:\nThis will prompt you to enter a new password for the user. After that, you can log in as the user using the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 3
+  },
+  {
+    "content": "This will prompt you to enter a new password for the user. After that, you can log in as the user using the following command:\nFinally, logged in as the user.\n## Connect to the server using SSH\nSetting up SSH key on your machine is fairly easy and you need to do it once. You can generate it once as your machine identification and then you can use it to connect to the server. Here is a link to theofficial documentationon how to generate SSH keys on Linux and MacOS.\nHere are some simple steps to follow:\nto view the public key\nOnce you have generated the SSH keys, you can add them to your server using the following command (assuming you have copied the public key to your clipboard):\nOn your server, run the following command to copy the public key to the server. Create a new directory called.sshin your home directory if it doesn’t already exist. Then create a new file calledauthorized_keysin the.sshdirectory and paste the public key into the file.\nPaste the public key into the file.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 4
+  },
+  {
+    "content": "Paste the public key into the file.\nadd it to the ssh utility\n## Disable password login\nAfter this, no one will be able to log in to your server using the username and password. Be careful with this.\nOpen this file in nano editor and search forPasswordAuthenticationand change it tono. Optionally, you can also change thePermitRootLogintonoto prevent root user from logging in.\nNow, restart the ssh service using the following command:\n## Firewall Configuration\nYou can install firewall package to protect your server from external attacks. In my case I will use linode firewall that I can easily configure from the control panel. Some people prefer to use ufw (Uncomplicated Firewall) which is a simple and easy to use firewall.\nTo install ufw, run the following command:\nOnce the package is installed, you can configure the firewall using the following command:\nThis will show the current status of the firewall. To enable the firewall, run the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 5
+  },
+  {
+    "content": "Once the package is installed, you can configure the firewall using the following command:\nThis will show the current status of the firewall. To enable the firewall, run the following command:\nThis will enable the firewall and allow all incoming and outgoing traffic. To allow incoming traffic on a specific port, run the following command:\nFor example, to allow incoming traffic on port 22, run the following command:\nTo allow incoming traffic on multiple ports, run the following command:\nFor example, to allow incoming traffic on ports 22, 80, and 443, run the following command:\n## Summary\nIn this tutorial, we have learned how to set up a server for hosting. We have covered topics such as server selection, server configuration, and server hardening.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 20, 2025\nWelcome\nNginx Configuration",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+    "chunk_id": 6
+  },
+  {
+    "content": "## Nginx Configuration on VPS\nNginx is a popular open-source web server that can be used to serve static files, dynamic content, and proxy requests to other servers. It is known for its high performance, scalability, and security.\nIn this tutorial, we will learn how to install and configure Nginx on any VPS.\n## Prerequisites\nBefore installing Nginx, make sure you have the following prerequisites:\n## Installing Nginx on Ubuntu\nTo install Nginx on Ubuntu, follow these steps:\nUpdate the package index\nInstall Nginx\nStart and enable Nginx\nOpen your web browser and navigate tohttp://your_server_ip. You should see the Nginx default welcome page.\n## Configuring Nginx on Ubuntu\nCreate a new server block configuration file\nThis command opens the default configuration file for editing.\nReplace the file content with the following content:\nCreate the document root directory if it doesn’t exist\nChange ownership of the document root directory to the current user",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-nginx/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Replace the file content with the following content:\nCreate the document root directory if it doesn’t exist\nChange ownership of the document root directory to the current user\nSet the permissions for the document root directory\nCreate the directory for the web root.\nThis command navigates to the web root directory.\nCreate an empty index.html file\nThis command creates an empty index.html file.\nOpen the index.html file for editing\nThis command opens the index.html file for editing.\nAdd the following content to the index.html file:\nTest the Nginx configuration\nThis command tests the Nginx configuration for syntax errors.\nReload Nginx to apply the changes\nThis command reloads the Nginx service to apply the changes.\nOpen your web browser and navigate toURL_ADDRESS_server_ip. You should see the Nginx default welcome page.\n## Summary\nIn this tutorial, we learned how to install and configure Nginx to serve static files.\n## Start your journey with ChaiCode",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-nginx/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Summary\nIn this tutorial, we learned how to install and configure Nginx to serve static files.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 21, 2025\nServer Startup\nNginx Rate Limit",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-nginx/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Setup SSL for Nginx\nThis guide will help you set up SSL for your Nginx server on Ubuntu using Certbot. We will use a subdomain from GoDaddy, and the steps include installing Certbot, configuring Nginx, and generating an SSL certificate.\n## Prerequisites\nBefore going forward, make sure you have the following prerequisites:\n## Install Certbot and the Nginx Plugin\nFirst, install Certbot and the Nginx plugin using the following command:\n## Configure Nginx\nEdit your Nginx configuration file to include your server name. Open the file with a text editor:\nAdd your subdomain in theserver_namedirective:\nSave the file and exit the editor. Then, test your Nginx configuration:\n## Create an A Record in Your Domain Registrar\nLog in to your domain registrar (e.g., GoDaddy) and create anArecord pointing to the IP address of your server.\nNOTE: Its always a good idea to create a elastic/static IP for your server. This will make sure that your IP address doesn’t change on restart or reboot.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/nginx-ssl-setup/",
+    "chunk_id": 0
+  },
+  {
+    "content": "NOTE: Its always a good idea to create a elastic/static IP for your server. This will make sure that your IP address doesn’t change on restart or reboot.\n## Obtain an SSL Certificate\nRun Certbot to obtain an SSL certificate for your subdomain:\nFollow the prompts:\nCertbot will automatically configure your Nginx to use the new certificate. You should see a message indicating that the certificate was successfully issued.\n## Access Your Site\nYou can now access your site using HTTPS:\n## Renewing the Certificate\nTo check if the certificate is close to expiring, run:\nTo renew the certificate, run:\nThis guide ensures that your Nginx server is secured with SSL, making your site accessible over HTTPS.\n## Summary\nIn this guide, we learned how to set up SSL for Nginx on Ubuntu using Certbot. We installed Certbot and the Nginx plugin, configured Nginx, created an A record in your domain registrar, and obtained an SSL certificate. We also learned how to renew the certificate.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/nginx-ssl-setup/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 21, 2025\nNginx Rate Limit\nDeploy Node API",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/nginx-ssl-setup/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Deploy Node API with Nginx\n## Prerequisites\nBefore going forward, make sure you have the following prerequisites:\n## Create a Small Express App\nWe will create a small express app to test the deployment. Here are the steps:\nInstallnodejsandnpmon ubuntu\nCreate a project dir and initialize a node app\nInstall basic dependencies\nUpdate thepackage.json\nCreate anindex.jsfile and add the following code\nInstallpm2to run this dummy app in the background\nRun the application with the following command:\nThis will start the application on port8080.\n## Do a reverse proxy with nginx\nNginx can also act as a reverse proxy, forwarding client requests to other servers. Here are the steps to configure Nginx as a reverse proxy:\nEdit your server block configuration:\nConfigure the server block to act as a reverse proxy:\nTest and reload Nginx:\nNow, when you requesthttp://<server_ip>/apiit will return the following response:\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-nginx-vps/",
+    "chunk_id": 0
+  },
+  {
+    "content": "Configure the server block to act as a reverse proxy:\nTest and reload Nginx:\nNow, when you requesthttp://<server_ip>/apiit will return the following response:\n## Summary\nIn this guide, we learned how to deploy a Node API with Nginx on Ubuntu server. We also learned how to configure Nginx as a reverse proxy.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 21, 2025\nNginx SSL Setup\nPostgreSQL & Docker",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-nginx-vps/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Setting Up PostgreSQL On VPS\nPostgreSQL is a powerful, open-source object-relational database system. It is a highly scalable, SQL-compliant database management system that is used to handle large workloads. PostgreSQL is a popular choice for many developers and organizations due to its robust features, extensibility, and reliability.\nIn this tutorial, we will walk you through the process of setting up PostgreSQL on Ubuntu on a VPS.\n## Install PostgreSQL\n## Check PostgreSQL is running\nMake sure the service is running\n## Use psql to connect to the database\nThis will open a CLI where you can run SQL commands.\nAfter first launching psql, you may check the details of your connection by typing\\conninfointo the interpreter.\n## List databases\n## Create a database\n## List databases\n## List tables\n## Setup PostgreSQL server\nOpen the file/etc/postgresql/<version>/main/postgresql.confand add the following lines:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-vps/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## List databases\n## Create a database\n## List databases\n## List tables\n## Setup PostgreSQL server\nOpen the file/etc/postgresql/<version>/main/postgresql.confand add the following lines:\nThis will allow connections from any IP address. This is not recommended for production environments.\n## Connection Settings\nAdd the following lines in/etc/postgresql/<version>/main/pg_hba.conf:\n## Restart the PostgreSQL server:\nThis server will be accessible atlocalhost:5432if your backend server is running on the same machine. If you are running the backend server on a different machine, you will need to configure thehostandportsettings in the.envfile.\n## Summary\nIn this tutorial, we have learned how to set up PostgreSQL on Ubuntu on a VPS. We have also learned how to create a database, list tables and configure connection settings.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 22, 2025\nPostgreSQL & Docker",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-vps/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 22, 2025\nPostgreSQL & Docker\nAdvance Node Logger",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-vps/",
+    "chunk_id": 2
+  },
+  {
+    "content": "## Setting Up PostgreSQL with Docker\nPostgreSQL is a powerful, open-source object-relational database system. It is a highly scalable, SQL-compliant database management system that is used to handle large workloads. PostgreSQL is a popular choice for many developers and organizations due to its robust features, extensibility, and reliability.\nIn this tutorial, we will walk you through the process of setting up PostgreSQL on your system. In this modern age, you can take advantage of Docker to easily set up and run PostgreSQL on your local machine. Docker is a platform that allows you to package, distribute, and run applications in containers. It provides a lightweight and efficient way to run applications in isolated environments. Docker is available for Windows, macOS, and Linux, making it a versatile tool for developers.\n## Prerequisites\nBefore you begin, you will need to have the following prerequisites:\n## Installing Docker",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Prerequisites\nBefore you begin, you will need to have the following prerequisites:\n## Installing Docker\nIf you don’t have Docker installed on your system, you can download and install it from the officialDocker website. Follow the instructions provided on the website to install Docker on your system.\nOnce the docker is installed, you can verify the installation by running the following command in your terminal:\nThis command will display the version of Docker installed on your system.\n## Create Storage Directory\nNow that you have Docker installed, create a new directory for your PostgreSQL data. This directory will be used to store the data files for your PostgreSQL instance. I usually keep this directory in my project folder so that it is easy to manage.\n## Docker Compose File\nNow, create a new file namedcompose.ymlin the same directory. This file will contain the configuration for your PostgreSQL container.\nInsert the following content into thecompose.ymlfile:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 1
+  },
+  {
+    "content": "Now, create a new file namedcompose.ymlin the same directory. This file will contain the configuration for your PostgreSQL container.\nInsert the following content into thecompose.ymlfile:\nIn this configuration file, we define two services:dbandadminer. Thedbservice is responsible for running the PostgreSQL instance, while theadminerservice is responsible for running theAdminerweb interface. It is a lightweight database management tool that allows you to interact with your databases through a web interface.\nThedbservice uses thepostgresimage from the Docker Hub registry. We specify the volume mapping to store the data files in the./data/dbdirectory. Theportssection maps the container port5432to the host port5432, allowing you to access the PostgreSQL instance from your local machine.\nWe also set the environment variablesPOSTGRES_DB,POSTGRES_USER, andPOSTGRES_PASSWORDto configure the database name, username, and password, respectively.",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 2
+  },
+  {
+    "content": "We also set the environment variablesPOSTGRES_DB,POSTGRES_USER, andPOSTGRES_PASSWORDto configure the database name, username, and password, respectively.\nTheadminerservice uses theadminerimage from the Docker Hub registry. We map the container port8080to the host port8080to access theAdminerweb interface.\n## Environment Variables\nTo configure the database name, username, and password, you can create a.envfile in the same directory as thecompose.ymlfile. Add the following content to the.envfile:\nReplace the values ofDB_NAME,DB_USER, andDB_PASSWORDwith your desired database name, username, and password, respectively.\n## Start the PostgreSQL Container\nNow that you have created thecompose.ymlfile, you can start the PostgreSQL container by running the following command in the terminal:\nThis command will download the necessary images and start the PostgreSQL and Adminer containers in the background. You can verify that the containers are running by executing the following command:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 3
+  },
+  {
+    "content": "This command will download the necessary images and start the PostgreSQL and Adminer containers in the background. You can verify that the containers are running by executing the following command:\nThis command will display a list of running containers on your system. You should see thedbandadminercontainers listed in the output.\nYou can now access the Adminer web interface by opening a web browser and navigating tohttp://localhost:8080. In the login page, enter the database name, username, and password that you specified in thecompose.ymlfile. You should now be able to interact with your PostgreSQL database through theAdminerweb interface.\n## Connect with PostgreSQL\nIf you want to connect with database url, you can use the following url:\nThat’s it! You have successfully set up PostgreSQL using Docker on your system. You can now start developing applications that use PostgreSQL as the backend database.\n## Summary",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 4
+  },
+  {
+    "content": "That’s it! You have successfully set up PostgreSQL using Docker on your system. You can now start developing applications that use PostgreSQL as the backend database.\n## Summary\nIn this tutorial, we have learned how to set up PostgreSQL using Docker on your system. We have also learned how to connect with the database using the Adminer web interface.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 21, 2025\nDeploy Node API\nPostgreSQL on VPS",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+    "chunk_id": 5
+  },
+  {
+    "content": "## Advanced Node.js Logging\nNode Logger is a powerful tool that allows you to log messages to the console, file, or other destinations. It provides a simple and flexible API for logging messages, making it easy to debug and monitor your Node.js applications. Console logs are great for quick debugging, but they can be difficult to manage and analyze.\nThis guide has been carefully curated as a comprehensive reference for the “Advance logging with morgan and winston” section in theComplete Web Dev Course on Udemycourse. For the best learning experience, we recommend following these docs alongside our video lectures.\nThis is my personal configuration for Winston logger. You can use it as a reference.\n## Installation\nTo install Winston, you can use the following command:\nThis will install thewinstonandmorganpackages, which are used to configure and use the Winston logger.\n## Configuration",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-logger/",
+    "chunk_id": 0
+  },
+  {
+    "content": "## Installation\nTo install Winston, you can use the following command:\nThis will install thewinstonandmorganpackages, which are used to configure and use the Winston logger.\n## Configuration\nTo configure Winston, you can create a new file calledlogger.jsin the root directory of your project and add the following code:\nThis code configures Winston to log messages to the console and a file calledapp.log. It also sets the log level toinfoand uses thecolorizeandtimestampformatters to add colors and timestamps to the console logs.\n## Usage\nTo use the Winston logger, you can import it in your code and use it as follows:\nFirst go to your index.js file and add the following code:\nThis will log the messages to the console and the fileapp.log. Themorganpackage is used to format the log messages and thestreamoption is used to write the log messages to the console.\n## Easy log messages\nTo use the Winston logger, you can import it in your code and use it as follows:",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-logger/",
+    "chunk_id": 1
+  },
+  {
+    "content": "## Easy log messages\nTo use the Winston logger, you can import it in your code and use it as follows:\nThis will log the messages to the console and the fileapp.log.\n## Summary\nIn this tutorial, we have learned how to use the advanced Node Logger such as Winston and morgan. We have also learned how to configure and use the Winston logger in our Node.js applications. By using the advanced Node Logger, we can easily log messages to the console, file, or other destinations, making it easier to debug and monitor our applications.\nNow, you can use the advanced Node Logger to log messages in your Node.js applications and make it easier to debug and monitor your applications.\n## Start your journey with ChaiCode\nAll of our courses are available onchaicode.com. Feel free to check them out.\nLast updated:Apr 22, 2025\nPostgreSQL on VPS",
+    "source": "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-logger/",
+    "chunk_id": 2
+  }
+]
