@@ -1,5 +1,4 @@
 import streamlit as st
-from dotenv import load_dotenv
 import os
 import time
 from typing import Dict
@@ -7,9 +6,6 @@ from openai import OpenAI
 
 from vector_store import VectorStore
 from chatengine import ChatEngine
-
-# Load environment variables
-load_dotenv()
 
 # Page setup
 st.set_page_config(
